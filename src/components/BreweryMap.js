@@ -76,5 +76,5 @@ const mapStyles = {
 //export default BreweryMap;
 
 export default GoogleApiWrapper({
-    apiKey: 'AIzaSyA-7d1-o3I4_FPxDYGOM6OAmON9zPdaZ-Q'
+    apiKey: '// KEY'
   })(BreweryMap);
