@@ -55,7 +55,6 @@ class App extends React.Component {
         <table className="table table-hover" >
                     <thead>
                         <tr>
-                            <th>Id</th>
                             <th>Name</th>
                             <th>Type</th>
                             <th>Address</th>

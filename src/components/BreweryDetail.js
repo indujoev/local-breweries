@@ -20,7 +20,6 @@ class BreweryDetail extends React.Component {
         <table width="100%">
             <thead>
             <tr>
-                <td>{this.state.breweryData["id"]}</td>
                 <td>{this.state.breweryData["name"]}</td>
                 <td>{this.state.breweryData["brewery_type"]}</td>
                 <td>

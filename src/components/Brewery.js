@@ -33,7 +33,6 @@ class Brewery extends React.Component {
             ):
             (
             <tr key= {counter} onClick = {this.toggle}>
-                <td>{breweryId}</td>
                 <td>{breweryName}</td>
                 <td>{breweryType}</td>
                 <td>{breweryAddress}</td>

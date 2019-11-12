@@ -55,7 +55,6 @@ const mapStyles = {
             //initialCenter={{ lat: this.props.brewery["latitude"]?breweryLat:47.444, lng: this.props.brewery["longitude"]?breweryLng:-122.176}}
             >
             <Marker 
-            //position={{ lat: breweryLat, lng:breweryLng }}
             marker={this.state.activeMarker} 
             onMouseover={this.onMarkerClick}
             name={breweryName}
